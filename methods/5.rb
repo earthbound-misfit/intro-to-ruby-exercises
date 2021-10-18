@@ -1,0 +1,1 @@
+# The 'calculate_product' method expects two arguments and only received one.

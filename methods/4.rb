@@ -1,0 +1,1 @@
+# It won't print anything because there is an explicit return before ever getting to line 4, so the method is exited before printing.
